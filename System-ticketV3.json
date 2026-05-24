@@ -1,5 +1,9 @@
 {
-    "systemeActif": false,
-    "gameIdAutorise": 0000000000,
+    "systemeActif": true,
+    "jeux": [
+        { "id": 113566960715953, "mode": "BL" },
+        { "id": 9876543210, "mode": "" },
+        { "id": 555666777, "mode": "" }
+    ],
     "staffAutorises": [4407085154]
 }
