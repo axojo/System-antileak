@@ -1,5 +1,5 @@
 {
-    "systemeActif": false,
+    "systemeActif": true,
     "jeux": [
         { "id": 113566960715953, "mode": "" },
         { "id": 9876543210, "mode": "" },
